@@ -1,0 +1,14 @@
+{
+  "name": "2ur1st/phpdocker",
+  "description": "Docker compose wrapper for common PHP projects",
+  "version": "0.0.1",
+  "type": "project",
+  "license": "MIT",
+  "keywords": [
+    "php", "docker", "docker-compose"
+  ],
+  "require": {
+  },
+  "require-dev": {
+  }
+}
